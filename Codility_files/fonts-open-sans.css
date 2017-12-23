@@ -1,0 +1,126 @@
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Open Sans Light'),
+		local('OpenSans-Light'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTalSqKUsDpiXlwfj-ZM2w_A.eot */
+		url('Open_Sans_300.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTRa1RVmPjeKy21_GQJaLlJI.woff */
+		url('Open_Sans_300.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTRUOjZSKWg4xBWp_C_qQx0o.woff2 */
+		url('Open_Sans_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=DXI1ORHCpsQm3Vp6mXoaTd1LKoZ82bBu2f46DhHcs3c&skey=b33cc031a589c168&v=v13#OpenSans */
+		url('Open_Sans_300.svg#OpenSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTdqQynqKV_9Plp7mupa0S4g.ttf */
+		url('Open_Sans_300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 300;
+	src:
+		local('Open Sans Light Italic'),
+		local('OpenSansLight-Italic'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxv79n2JXaf3UcCVurCu3zTQ.eot */
+		url('Open_Sans_300italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxrsuoFAk0leveMLeqYtnfAY.woff */
+		url('Open_Sans_300italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxo05NJhCxBV64hQBJiatqx0.woff2 */
+		url('Open_Sans_300italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=PRmiXeptR36kaC0GEAetxiFH-Sf3WxdwPtEScfNbkpg&skey=78fa527f8e87b8b8&v=v13#OpenSans */
+		url('Open_Sans_300italic.svg#OpenSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxvqEJM-AK1nFUafhVdytxUY.ttf */
+		url('Open_Sans_300italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src:
+		local('Open Sans'),
+		local('OpenSans'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/u-WUoqrET9fUeobQW7jkRfY6323mHUZFJMgTvxaG2iE.eot */
+		url('Open_Sans_400.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/u-WUoqrET9fUeobQW7jkRT8E0i7KZn-EPnyo3HZu7kw.woff */
+		url('Open_Sans_400.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/u-WUoqrET9fUeobQW7jkRVtXRa8TVwTICgirnJhmVJw.woff2 */
+		url('Open_Sans_400.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=u-WUoqrET9fUeobQW7jkRZbd9NUM7myrQQz30yPaGQ4&skey=62c1cbfccc78b4b2&v=v13#OpenSans */
+		url('Open_Sans_400.svg#OpenSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/u-WUoqrET9fUeobQW7jkRaCWcynf_cDxXwCLxiixG1c.ttf */
+		url('Open_Sans_400.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 400;
+	src:
+		local('Open Sans Italic'),
+		local('OpenSans-Italic'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/xjAJXh38I15wypJXxuGMBuZiE7IA0Up7-VwGqa0iGVY.eot */
+		url('Open_Sans_400italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/xjAJXh38I15wypJXxuGMBtIh4imgI8P11RFo6YPCPC0.woff */
+		url('Open_Sans_400italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/xjAJXh38I15wypJXxuGMBqg5eI2G47JWe0-AuFtD150.woff2 */
+		url('Open_Sans_400italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=xjAJXh38I15wypJXxuGMBpS_ZaL0arjVp2tkn2-HJhM&skey=743457fe2cc29280&v=v13#OpenSans */
+		url('Open_Sans_400italic.svg#OpenSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/xjAJXh38I15wypJXxuGMBl02b4v3fUxqf9CZJ1qUoIA.ttf */
+		url('Open_Sans_400italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		local('Open Sans Semibold'),
+		local('OpenSans-Semibold'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSqlSqKUsDpiXlwfj-ZM2w_A.eot */
+		url('Open_Sans_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSha1RVmPjeKy21_GQJaLlJI.woff */
+		url('Open_Sans_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNShUOjZSKWg4xBWp_C_qQx0o.woff2 */
+		url('Open_Sans_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=MTP_ySUJH_bn48VBG8sNSt1LKoZ82bBu2f46DhHcs3c&skey=a162967ffaa5aa08&v=v13#OpenSans */
+		url('Open_Sans_600.svg#OpenSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNStqQynqKV_9Plp7mupa0S4g.ttf */
+		url('Open_Sans_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Open Sans Bold'),
+		local('OpenSans-Bold'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzKlSqKUsDpiXlwfj-ZM2w_A.eot */
+		url('Open_Sans_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzBa1RVmPjeKy21_GQJaLlJI.woff */
+		url('Open_Sans_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzBUOjZSKWg4xBWp_C_qQx0o.woff2 */
+		url('Open_Sans_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=k3k702ZOKiLJc3WVjuplzN1LKoZ82bBu2f46DhHcs3c&skey=cd9e1a36bb25a3c3&v=v13#OpenSans */
+		url('Open_Sans_700.svg#OpenSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzNqQynqKV_9Plp7mupa0S4g.ttf */
+		url('Open_Sans_700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 700;
+	src:
+		local('Open Sans Bold Italic'),
+		local('OpenSans-BoldItalic'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxiLfhkkOXu3C-OFz_KOVjmA.eot */
+		url('Open_Sans_700italic.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxoUt79146ZFaIJxILcpzmhI.woff */
+		url('Open_Sans_700italic.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxqsA81DAeuqoeYxDcSOJPMY.woff2 */
+		url('Open_Sans_700italic.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/l/font?kit=PRmiXeptR36kaC0GEAetxrUyes8Cko1kW3hb-t-_wy8&skey=7e5bb13249e84143&v=v13#OpenSans */
+		url('Open_Sans_700italic.svg#OpenSans') format('svg'),
+		/* from https://fonts.gstatic.com/s/opensans/v13/PRmiXeptR36kaC0GEAetxiBnJMIPt0VoltfALX9gDFQ.ttf */
+		url('Open_Sans_700italic.ttf') format('truetype');
+}
